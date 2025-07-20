@@ -2,7 +2,7 @@
 ; Twitch: RR_357000
 ; X:@relliK_2048
 ; Discord:
-; RPCL3 Process Control
+; RPCL3 End Process
 #SingleInstance force
 #Persistent
 #NoEnv
